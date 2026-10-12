@@ -26,3 +26,5 @@ data/
 port.txt
 *.log
 .DS_Store
+
+*.exe
